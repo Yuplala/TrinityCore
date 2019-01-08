@@ -70,6 +70,7 @@ enum MiscSpells
     SPELL_SHAMAN_SATED                              = 57724
 };
 
+ // TEST TEST TEST 
 // 90355 - Ancient Hysteria
 class spell_hun_ancient_hysteria : public SpellScriptLoader
 {
